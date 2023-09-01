@@ -4,6 +4,6 @@ namespace claseCadeteria
     {
         private string nombre {get; set;}
         private string telefono {get; set;}
-        private string listadoCadetes {get; set;}
+        private string listadoCadetes {get; set;} //prop tipo clase Cadetes (<list> listadoCadetes)
     }
 }
